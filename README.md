@@ -68,7 +68,9 @@ git clone https://github.com/Srushti-1912/Student-Management-System.git
 
 ## 📸 Screenshots
 
-*(Screenshots will be added here.)*
+### Home Screen
+
+![Home Screen](screenshots/home.png)
 
 ---
 
