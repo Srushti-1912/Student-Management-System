@@ -72,6 +72,26 @@ git clone https://github.com/Srushti-1912/Student-Management-System.git
 
 ![Home Screen](screenshots/home.png)
 
+### Add Student
+
+![Add Student](screenshots/add.png)
+
+### View Students
+
+![View Students](screenshots/view.png)
+
+### Search Student
+
+![Search Student](screenshots/search.png)
+
+### Update Student
+
+![Update Student](screenshots/update.png)
+
+### Delete Student
+
+![Delete Student](screenshots/delete.png)
+
 ---
 
 ## 📌 Future Improvements
